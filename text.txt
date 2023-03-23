@@ -1,2 +1,3 @@
 palnning and desigining 
 design and coding
+testing and deployment
